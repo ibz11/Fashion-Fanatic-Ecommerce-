@@ -1,5 +1,5 @@
 <h1>Fashion Fanatic E-commerce Website</h1>
-<h2>This is an Ecommerce web application where users can view and buy product.It is also equiped with an admin dashboard for creating products
+<h2>This is an Ecommerce web application where users can view and buy product.It is also equiped with an admin dashboard for creating updating and deleting products
 </h2>
 
 
